@@ -13,16 +13,20 @@ To run this project you need to have Docker and TypeScript
 ```
   cd /lab1
 ```
-3. Build the Docker image
+3. Istall dependencies
+```
+npm i
+```
+4. Build the Docker image
 ```
   docker-compose build
 ```
-4. Run the application
+5. Run the application
 ```
   docker-compose up
 ```
-5. Check the result with this link
+6. Check the result with this link
   http://localhost:3000/healthcheck
 
-6. Here is link to deploy in Render
+7. Here is link to deploy in Render
   https://one-backend-lab.onrender.com
