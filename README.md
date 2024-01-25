@@ -23,3 +23,6 @@ To run this project you need to have Docker and TypeScript
 ```
 5. Check the result with this link
   http://localhost:3000/healthcheck
+
+6. Here is link to deploy in Render
+  https://one-backend-lab.onrender.com
